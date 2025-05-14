@@ -11,7 +11,6 @@ I'm a **Full Stack Developer** passionate about building clean, maintainable, an
 ### 🔧 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
